@@ -41,7 +41,7 @@ I'm a **Full-Stack AI Developer** passionate about building intelligent solution
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" height="40"/>
 </div>
 
-**Specialized:** Google ADK • Pydantic AI • LangChain • Vertex AI • VectorDBs • Hugging Face • Replicate
+**Specialized:** Google ADK • Pydantic AI • LangChain • VectorDBs • Hugging Face • Replicate
 
 ### **Backend Development**
 <div>
