@@ -3,7 +3,7 @@
 <div>
   <img src="https://media0.giphy.com/media/YQitE4YNQNahy/200w.gif?cid=6c09b952aci9mguv8t7tty0wpuuossf1cchv3ll7g0uejuw3&ep=v1_gifs_search&rid=200w.gif" alt="coding" width="300"/>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melsovcozy&theme=shadow-purple)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=melsovcozy&theme=shadow-purple)](https://git.io/streak-stats)
 </div>
 
 ## 🚀 About Me
